@@ -15,13 +15,13 @@
 1. Clone repository này về máy của bạn.
 
 ```bash
-git clone https://github.com/h114mx001/AES_ConBoCon
+git clone https://github.com/h114mx001/aes_conbocon
 ```
 
 1. Build Docker image
 
 ```bash 
-cd AES_ConBoCon
+cd aes_conbocon
 echo "flag{this_is_a_fake_flag}" > milk
 docker build -t aes_conbocon .
 ```
@@ -40,7 +40,7 @@ nc 127.0.0.1 31339
 
 5. Enjoy!!!
 
-### challenge
+### Challenge
 
 Access at: 
 
